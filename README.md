@@ -4,7 +4,7 @@
 Developed an AI model that fine-tuned the HuggingFace Solar model and answered questions related to wallpaper defects knowledge.
 
 ## Environment
-Colab T4 (Free gpu)
+macOS, Colab T4 (Free gpu)
 
 ## Details
 - Re-Ranking
