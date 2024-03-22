@@ -11,6 +11,8 @@ macOS, Colab T4 (Free gpu)
 - Back Translation (Papago Translation)
 - Sentence Shuffling
 - Vocabulary Processing
+- Double Quantization
+- QLORA Finetuning
 
 ## Model
 <img width="152" alt="image" src="https://github.com/paulms77/Wallpaper-defects-knowledge-chat-service/assets/69188065/4a6c7c59-4fc9-4431-83ac-eb9069d8f280">
