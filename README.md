@@ -1,7 +1,7 @@
 ## Wallpaper defects knowledge chat service
 
 ## Introduction
-Developed an AI model that fine-tuned the Hugging Face Solar model and answered questions related to wallpaper defects knowledge.
+Developed an AI model that fine-tuned the HuggingFace Solar model and answered questions related to wallpaper defects knowledge.
 
 ## Environment
 Colab T4 (Free gpu)
@@ -10,7 +10,7 @@ Colab T4 (Free gpu)
 - Re-Ranking
 - Back Translation (Papago Translation)
 - Sentence Shuffling
-
+- Vocabulary Processing
 
 ## Dataset
 You can receive the data here.
